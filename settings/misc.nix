@@ -407,6 +407,6 @@ in
             ];
           }
         ];
-      render = config: config.blur.rendered
+      render = config: config.blur.rendered;
   }
 ]
